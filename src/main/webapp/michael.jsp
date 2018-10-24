@@ -8,13 +8,16 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>$Title$</title>
+    <title>MIGUEL</title>
 </head>
 <body>
 
-<form action="/test" method="post">
-    <input type="text" placeholder="your name.. please" name="name">
-    <input type="submit" value="click me">
-</form>
+<h3>Hello Keaton</h3>
+<br><br><br>
+<h2>Michael?</h2>
+<br><br><br>
+<a href="https://www.youtube.com/watch?v=q9lQ3Q-2YxA"><h1>MIGUEL?!</h1></a>
+
+
 </body>
 </html>
