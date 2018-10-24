@@ -13,12 +13,12 @@ public class HelloServlet extends HttpServlet {
 
 
         String name = req.getParameter("name");
+        if (name.toLowerCase().equals("michael")){
+            resp.sendRedirect("fu.jsp");
+        }
 
+            req.setAttribute("name", name);
 
-        resp.getWriter().println("your name is " + name);
-
-
-        resp.setHeader("Refresh", "3");
-        resp.sendRedirect(req.getContextPath());
+        req.getRequestDispatcher("fetch.jsp").forward(req, resp);
     }
 }

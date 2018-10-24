@@ -6,9 +6,9 @@
     <title>Michael Keaton</title>
 </head>
 <body>
-<h3><c:out value="${requestScope.name}..."/></h3>
-<h2><c:out value="${requestScope.name}......"/></h2>
+<h1>Michael?!?</h1>
 
-<meta http-equiv="refresh" content="3;url=/fetch2.jsp" />
+<meta http-equiv="refresh" content="3;url=/fetch4.jsp" />
+
 </body>
 </html>

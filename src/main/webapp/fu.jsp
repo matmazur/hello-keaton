@@ -6,9 +6,8 @@
     <title>Michael Keaton</title>
 </head>
 <body>
-<h3><c:out value="${requestScope.name}..."/></h3>
-<h2><c:out value="${requestScope.name}......"/></h2>
 
-<meta http-equiv="refresh" content="3;url=/fetch2.jsp" />
+<a href="https://www.youtube.com/watch?v=-T7WF7c80G8"><h1>This is for you love..</h1></a>
+
 </body>
 </html>
