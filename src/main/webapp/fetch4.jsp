@@ -11,7 +11,6 @@
         }
 
         div {
-
             display: table-cell;
             margin: 0 auto;
 
@@ -22,9 +21,8 @@
 </head>
 <body>
 <div>
-    <a href="https://www.youtube.com/watch?v=q9lQ3Q-2YxA">
-        <h1>MIGUEL?!?!?<p style="font-size: 20px;"> ^--click this bait--^</p></h1>
-    </a>
+    <meta http-equiv="refresh" content="3;url=https://www.youtube.com/watch?v=q9lQ3Q-2YxA" />
+        <h1>MIGUEL?!?!?</h1>
 </div>
 </body>
 </html>

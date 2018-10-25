@@ -9,7 +9,6 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
-
     <dependencies>
         <!-- https://mvnrepository.com/artifact/javax.servlet/servlet-api -->
         <dependency>
@@ -35,10 +34,7 @@
             <artifactId>jstl</artifactId>
             <version>1.2</version>
         </dependency>
-
-
     </dependencies>
-
 
     <build>
         <finalName>keaton</finalName>
