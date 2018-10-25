@@ -7,7 +7,7 @@
 </head>
 <body>
 
-<a href="https://www.youtube.com/watch?v=-T7WF7c80G8"><h1>This is for you love..</h1></a>
+<meta http-equiv="refresh" content="3;url=https://www.youtube.com/watch?v=-T7WF7c80G8" />
 
 </body>
 </html>
