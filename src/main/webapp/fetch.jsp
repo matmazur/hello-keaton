@@ -6,7 +6,7 @@
     <title>Michael Keaton</title>
 </head>
 <body>
-<h3><c:out value="${requestScope.name}..."/></h3>
+<h3><c:out value="${sessionScope.name}..."/></h3>
 
 <meta http-equiv="refresh" content="3;url=/fetchhalf.jsp" />
 </body>
