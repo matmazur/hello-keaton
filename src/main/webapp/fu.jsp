@@ -7,7 +7,7 @@
 </head>
 <body>
 
-<meta http-equiv="refresh" content="3;url=https://www.youtube.com/watch?v=-T7WF7c80G8" />
+<meta http-equiv="refresh" content="1;url=https://www.youtube.com/watch?v=-T7WF7c80G8" />
 
 </body>
 </html>
