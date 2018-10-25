@@ -14,9 +14,8 @@ public class HelloServlet extends HttpServlet {
 
         String name = req.getParameter("name");
         if (name.toLowerCase().equals("michael")){
-            resp.sendRedirect("fu.jsp");
+            resp.sendRedirect("https://www.youtube.com/watch?v=-T7WF7c80G8");
         }
-
             req.setAttribute("name", name);
 
         req.getRequestDispatcher("fetch.jsp").forward(req, resp);
